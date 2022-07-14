@@ -1,0 +1,21 @@
+EJERCICIOS JS DOM
+
+1- Hace un menu (navbar) que tenga un logo (puede ser texto que diga logo), el icono de menu hamburguesa y 3 items
+ que esten ocultos. Hacer un addEventListener al menu para mostrar los elementos.
+
+2- Validacion de formularios
+Hacer un form que tenga email y contraseña y que valide que el email sea un email y la contraseña tenga mayuscula, 
+minuscula y un numero. Si da error, renderizar en el html el texto con un error. Ej. Email invalido / La contraseña 
+debe tener una may, min y nro.
+
+3- Tenemos este array de tareas. Crear una funcion para renderizar cada elemento de este array en una  lista 
+desordenada.
+
+// const tareas = ['Estudiar JS', 'Comer una hamburguesa', 'Hacer las compras', 'Lavar la ropa', 'Ver un capitulo 
+de la serie', 'Leer un libro'] .
+
+4- Hacer un input y un boton de enviar. Crear una funcion para pintar en el html lo que escribamos en el input 
+cuando apretemos el boton enviar. Si se animan, que los datos persistan en LocalStorage.
+
+5- Tenemos el siguiente array de peliculas, renderizar cada objeto en una card. Si se animan, pueden hacer que 
+este array de pelis este en otro archivo(peliculas.js) y renderizarlas desde el main.js.
